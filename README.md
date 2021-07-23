@@ -1,2 +1,3 @@
 # FiveM-Script-Creator
-Un creatore di script FiveM
+Per installare il software, devi andare nella sezione tag o release (da pc)
+![] ()
